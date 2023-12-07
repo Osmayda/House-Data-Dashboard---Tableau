@@ -6,7 +6,8 @@ Tableau project - Build an interactive dashboard with a calendar widget as the m
 
 # Tableau Dashboard
 
-![image](https://github.com/Osmayda/House-Data-Dashboard---Tableau/assets/129660519/fb3eb030-5d27-42ed-98ab-04248f0209d7)
+![image](https://github.com/Osmayda/House-Data-Dashboard---Tableau/assets/129660519/f78a73f6-d7bc-423d-ae5c-a6182fbd6006)
 
 Link to Tableau Dashboard:
+
 https://public.tableau.com/views/KingCountyHouseSales_17019087349290/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link
